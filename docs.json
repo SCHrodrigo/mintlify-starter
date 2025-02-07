@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Mint Starter Kit - Rodrigo",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#C44B43",
+    "light": "#E87474",
+    "dark": "#C44B43"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -59,7 +59,7 @@
         {
           "anchor": "StartLaw",
           "href": "https://thestartlaw.com.br",
-          "icon": "book-open-cover"
+          "icon": "globe"
         },
         {
           "anchor": "Slack",
@@ -70,8 +70,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/startlaw-logo-preto.png",
+    "dark": "/images/startlaw-logo-branco.png"
   },
   "navbar": {
     "links": [
